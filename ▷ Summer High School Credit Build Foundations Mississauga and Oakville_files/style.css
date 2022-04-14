@@ -11609,7 +11609,7 @@ display: none;
   font-size: 16.5px;
 }
 .fee-section__column-right li:before {
-  content: "âœ”";
+  content: "✔";
   color: white;
   background: #01AE2D;
   display: inline-block;
